@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey 👋, This is Joel Alicea
+[![Gmail Badge](https://img.shields.io/badge/-joelalicea62@me.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joelalicea62@me.com)](mailto:joelalicea62@me.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/joelalicea-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/joelalicea/)](https://www.linkedin.com/in/www.linkedin.com/in/joelalicea/) [![Github Badge](https://img.shields.io/badge/-joelalicea-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joelalicea/)](https://www.github.com/joelalicea/) <p align='left'>Hi I'm Joel, a professional data analyst with experience on more than 5 technical projects. My skills include business analytics, data visualization and storytelling, and SQL Now, I am eager to leverage my big data and visualization skills in the e-commerce and customer service sector to drive growth and boost sales.
 
-<!--
-**joelalicea/joelalicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am working with customer data to find ways of attracting more sales and increasing business metrics. In 2023, I enrolled in the TripleTen 6-month Business Intelligence Analytics program. The curriculum covered Google Sheets (Excel), data visualization (Tableau), SQL, and more. It also involved numerous practical projects.
 
-Here are some ideas to get you started:
+Some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   l enjoy participating in professional sporting events, especially  because I enjoy player stats and tracking them on ESPN
+*   I love gaming, and even used to run friendly competitions with family and friends
+*    At the moment, i am training for the NYC Marathon!
+*   l also dislike cooking but prefer to eat in as a healthier option
+*   My goals for 2024: landing my dream job in data. And getting to travel with my wife.
+
+Feel free to contact me on GitHub or Linkedin!</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=joelalicea alt=joelalicea /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=joelalicea&show_icons=true&include_all_commits=true)](https://github.com/joelalicea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelalicea&layout=compact)](https://github.com/joelalicea/github-readme-stats)
